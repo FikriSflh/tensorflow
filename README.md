@@ -1,6 +1,6 @@
 # TensorFlow
 
-TensorFlow, yang merupakan perpustakaan sumber terbuka yang sangat populer untuk komputasi numerik dan pengembangan model kecerdasan buatan (AI), telah dikembangkan oleh tim Google Brain sejak tahun 2015. Perangkat lunak ini memiliki aplikasi yang luas dalam berbagai bidang, termasuk machine learning, pemrosesan bahasa alami, dan pengenalan gambar.
+TensorFlow, yang adalah perpustakaan sumber yang sangat populer untuk komputasi numerik dan pengembangan model kecerdasan buatan (AI), telah dikembangkan oleh tim Google Brain sejak tahun 2015. Perangkat lunak ini memiliki aplikasi yang luas dalam berbagai bidang, termasuk machine learning, pemrosesan bahasa alami, dan pengenalan gambar.
 
 TensorFlow memberikan kemampuan kepada para pengembang dan peneliti untuk dengan efisien menciptakan dan melatih model kecerdasan buatan. Salah satu fitur kunci dari TensorFlow adalah representasi komputasi dalam bentuk grafik aliran data, di mana operasi matematis diilustrasikan sebagai node dalam grafik, dan data yang mengalir antara node-node tersebut direpresentasikan sebagai tensor multidimensi.
 
