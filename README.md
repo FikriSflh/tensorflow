@@ -8,6 +8,7 @@ Beberapa ciri penting dari TensorFlow mencakup fleksibilitas yang tinggi dalam m
 
 Dengan dukungan dari komunitas pengguna dan pengembang yang besar, TensorFlow telah diterapkan secara luas di berbagai industri dan penelitian, termasuk dalam aplikasi pengenalan wajah, pengenalan suara, kendaraan otonom, pemrosesan bahasa alami, dan berbagai domain lainnya. Versi terbaru, TensorFlow 2.x, menawarkan lebih banyak kemudahan penggunaan dan fleksibilitas dalam pengembangan model kecerdasan buatan."
 
-<img width="960" alt="SSan profil" src="https://github.com/FikriSflh/tensorflow/assets/148163834/fc78db70-30c4-4638-b204-cbd5b61ac2bf">
+<img width="960" alt="SSan profil" src="https://github.com/FikriSflh/tensorflow/assets/148163834/3641a504-5eaf-465f-a2a7-bb7ef5f10db0">
 
-<img width="960" alt="SSan tensorflow" src="https://github.com/FikriSflh/tensorflow/assets/148163834/1da893e4-a846-48ff-b097-14c906b83f98">
+
+
