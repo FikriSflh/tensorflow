@@ -10,5 +10,4 @@ Dengan dukungan dari komunitas pengguna dan pengembang yang besar, TensorFlow te
 
 <img width="960" alt="SSan profil" src="https://github.com/FikriSflh/tensorflow/assets/148163834/3641a504-5eaf-465f-a2a7-bb7ef5f10db0">
 
-
-
+<img width="960" alt="SSan tensorflow" src="https://github.com/FikriSflh/tensorflow/assets/148163834/e104b230-8796-4f1a-a6c1-41b944144597">
