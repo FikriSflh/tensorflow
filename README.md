@@ -7,5 +7,7 @@ TensorFlow memberikan kemampuan kepada para pengembang dan peneliti untuk dengan
 Beberapa ciri penting dari TensorFlow mencakup fleksibilitas yang tinggi dalam mendukung berbagai jenis model kecerdasan buatan seperti neural networks, CNN, RNN, serta kinerja tinggi dengan dukungan GPU dan TPU. Alat visualisasi seperti TensorBoard membantu dalam memantau dan memahami model selama proses pelatihan, sementara antarmuka terintegrasi dengan Keras mempermudah pembuatan dan pelatihan model dengan tingkat abstraksi yang lebih tinggi.
 
 Dengan dukungan dari komunitas pengguna dan pengembang yang besar, TensorFlow telah diterapkan secara luas di berbagai industri dan penelitian, termasuk dalam aplikasi pengenalan wajah, pengenalan suara, kendaraan otonom, pemrosesan bahasa alami, dan berbagai domain lainnya. Versi terbaru, TensorFlow 2.x, menawarkan lebih banyak kemudahan penggunaan dan fleksibilitas dalam pengembangan model kecerdasan buatan."
-<img width="960" alt="SSan github" src="https://github.com/FikriSflh/tensorflow/assets/148163834/c703eb38-7489-4e55-96e7-cef58f101322">
+
+<img width="960" alt="SSan profil" src="https://github.com/FikriSflh/tensorflow/assets/148163834/fc78db70-30c4-4638-b204-cbd5b61ac2bf">
+
 <img width="960" alt="SSan tensorflow" src="https://github.com/FikriSflh/tensorflow/assets/148163834/1da893e4-a846-48ff-b097-14c906b83f98">
